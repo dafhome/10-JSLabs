@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+.body-congrats{
+    background-image: url(/1-AdivinaColor/images/congrats.jpeg);
+    background-position: center;
+    background-size:contain;
+}
